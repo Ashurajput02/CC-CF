@@ -1,0 +1,12 @@
+for _ in range(int(input())):
+    n=int(input())
+    s=input()
+    
+    z=0
+    for i in range(n):
+        if s[i]=="0":
+            z+=1
+            
+        print(("IDK" if i<n-1 else "YES") if z==0 else "NO")
+        
+            

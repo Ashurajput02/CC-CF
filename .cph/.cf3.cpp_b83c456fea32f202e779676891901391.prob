@@ -1,0 +1,1 @@
+{"name":"Local: cf3","url":"c:\\codeforces\\cf3.cpp","tests":[{"id":1695827622341,"input":"3\n3\n110\n5\n00110\n5\n10101","output":"1\n0\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codeforces\\cf3.cpp","group":"local","local":true}
