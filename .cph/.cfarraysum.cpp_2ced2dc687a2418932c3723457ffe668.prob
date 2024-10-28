@@ -1,1 +1,0 @@
-{"name":"Local: cfarraysum","url":"c:\\codeforces\\cfarraysum.cpp","tests":[{"id":1695829719687,"input":"3\n2 5\n4 1\n4 20","output":"4 1\n-1\n3 4 5 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codeforces\\cfarraysum.cpp","group":"local","local":true}

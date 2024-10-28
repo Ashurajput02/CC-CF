@@ -1,1 +1,0 @@
-{"name":"Local: parity","url":"c:\\codeforces\\parity.cpp","tests":[{"id":1695831692184,"input":"3\n5 0\n6 10 1 4 8\n4 0\n17 13 21 3\n3 1\n1 2 3  ","output":"0\n24\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codeforces\\parity.cpp","group":"local","local":true}
